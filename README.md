@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luis Torres Cisneros
-- 👀 I’m interested in Software Engineering and CI/CD workflows
-- 🌱 I’m currently learning Artificial Intelligence
-- 💞️ I’m looking to collaborate on the CLOUD
+- 👀 I’m interested in C++ Software Engineering and Design Patterns
+- 🌱 I’m currently learning Modern C++
+- 💞️ I’m looking to collaborate on Embedded as well as Software Engineering
 - 📫 How to reach me? Just email me at luis.torres.cisneros@sioux.eu
 
 <!---
